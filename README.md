@@ -1,1 +1,1 @@
-BUPT-MCPRL Paper Reading Group
+BUPT-MCPRL Paper Reading Group (OFFLINE)
