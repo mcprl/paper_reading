@@ -1,2 +1,1 @@
-# paper_reading
-paper reading group
+BUPT-MCPRL Paper Reading Group
