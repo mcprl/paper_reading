@@ -3,8 +3,8 @@ Title,Category,PDF
 **********CVPR'14**********,,
 Rich feature hierarchies for accurate object detection and semantic segmentation,DET,
 PANDA Pose Aligned Networks for Deep Attribute Modeling,Attribute,http://www.cs.berkeley.edu/~nzhang/papers/cvpr14_panda.pdf
-BING: Binarized Normed Gradients for Objectness Estimation at 300fps,DET,
-Large-scale video classification with convolutional neural networks,AR,
+BING: Binarized Normed Gradients for Objectness Estimation at 300fps,DET,http://mmcheng.net/mftp/Papers/ObjectnessBING.pdf
+Large-scale video classification with convolutional neural networks,AR,http://vision.stanford.edu/pdf/karpathy14.pdf
 ,,
 **********ECCV'14**********,,
 Going deeper with convolutions,CNN,
@@ -15,7 +15,6 @@ Part-based R-CNNs for Fine-grained Category Detection,CLS,
 Visualizing and Understanding Convolutional Networks,CNN,
 ,,
 **********BMVC/ICLR/MM**********,,
-[ICLR2015]VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION,CNN,
 "[BMVC2014]How good are detection proposals, really?",DET,
 ,,
 **********NIPS'14**********,,
