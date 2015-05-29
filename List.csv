@@ -14,7 +14,7 @@ Multi-Scale Orderless Pooling of Deep Convolutional Activation Features,CNN,
 Part-based R-CNNs for Fine-grained Category Detection,CLS,http://arxiv.org/pdf/1407.3867v1
 Visualizing and Understanding Convolutional Networks,CNN,http://ftp.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf
 Analyzing the Performance of Multilayer Neural Networks for Object Recognition,CNN,http://arxiv.org/pdf/1407.1610.pdf
-Spatio-Temporal Object Detection Proposals,DET,
+Spatio-Temporal Object Detection Proposals,DET,http://lear.inrialpes.fr/~oneata/3Dproposals/
 ,,
 **********BMVC/ICLR/MM**********,,
 "[BMVC2014]How good are detection proposals, really?",DET,https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/object-recognition-and-scene-understanding/how-good-are-detection-proposals-really/
