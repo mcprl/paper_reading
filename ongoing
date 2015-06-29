@@ -24,13 +24,13 @@ ICLR2015 - STRIVING FOR SIMPLICITY: THE ALL CONVOLUTIONAL NET
 
 #姜文晖
 NIPS2014 - Learning Deep Features for Scene Recognition using Places Database
+NIPS2014 - Do Convnets Learn Correspondence
 BMVC2014 - Cracking bing and beyond
 CVPR2015 - Improving Object Proposals with Multi-Thresholding Straddling Expansion
-CVPR2015 - Complexity-Adaptive Distance Metric for Object Proposals Generation
-CVPR2015 - What do 15,000 Object Categories Tell Us About Classifying and Localizing Actions?
+CVPR2015 - A Convolutional Neural Network Cascade for Face Detection
+CVPR2015 - Hypercolumns for Object Segmentation and Fine-grained Localization
 CVPR2015 - Unsupervised Object Discovery and Localization in the Wild: Part-Based Matching With Bottom-Up Region Proposals
 CVPR2015 - Attributes and Categories for Generic Instance Search From One Example
-CVPR2015 - Early burst detection for memory-efficient image retrieval
 CVPRw2015 - Deep Learning of Binary Hash Codes for Fast Image Retrieval
 CVPRw2015 - Exploiting Local Features from Deep Networks for Image Retrieval
 
